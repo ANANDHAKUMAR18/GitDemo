@@ -26,6 +26,11 @@ public class Maths {
 		int result =a/b;
 		System.out.println("Sum of two numbers =" + result);
 		}
+
+	public void add1(int a,int b),int c){
+		int result =a+b+c;
+		System.out.println("Sum of two numbers =" + result);
+		}
 	
 	
 	
@@ -43,6 +48,8 @@ public class Maths {
 		obj.mul(3,0);
 
 		obj.div(3,0);
+
+		obj.add1(3,0,0);
 
 		
 		
