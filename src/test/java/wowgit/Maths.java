@@ -22,6 +22,12 @@ public class Maths {
 		}
 	
 	
+	public void div(int a,int b){
+		int result =a/b;
+		System.out.println("Sum of two numbers =" + result);
+		}
+	
+	
 	
 
 	
@@ -33,7 +39,11 @@ public class Maths {
 	        Maths obj=new Maths();
 		obj.add(3,0);
 		obj.sub(3,0);
+
 		obj.mul(3,0);
+
+		obj.div(3,0);
+
 		
 		
 
