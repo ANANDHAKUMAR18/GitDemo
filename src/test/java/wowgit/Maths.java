@@ -14,6 +14,13 @@ public class Maths {
 		int result =a-b;
 		System.out.println("Sum of two numbers =" + result);
 		}
+
+	
+	public void mul(int a,int b){
+		int result =a*b;
+		System.out.println("Sum of two numbers =" + result);
+		}
+	
 	
 	
 
@@ -26,6 +33,7 @@ public class Maths {
 	        Maths obj=new Maths();
 		obj.add(3,0);
 		obj.sub(3,0);
+		obj.mul(3,0);
 		
 		
 
