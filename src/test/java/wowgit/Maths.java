@@ -8,6 +8,13 @@ public class Maths {
 		int result =a+b;
 		System.out.println("Sum of two numbers =" + result);
 		}
+
+	
+	public void sub(int a,int b){
+		int result =a-b;
+		System.out.println("Sum of two numbers =" + result);
+		}
+	
 	
 
 	
@@ -18,6 +25,7 @@ public class Maths {
 		public static void main(String[] args){
 	        Maths obj=new Maths();
 		obj.add(3,0);
+		obj.sub(3,0);
 		
 		
 
