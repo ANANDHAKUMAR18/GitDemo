@@ -31,6 +31,11 @@ public class Maths {
 		int result =a+b+c;
 		System.out.println("Sum of two numbers =" + result);
 		}
+
+	public void greet() {
+		System.out.println(" Super bosss");
+	}
+	
 	
 	
 	
@@ -50,6 +55,8 @@ public class Maths {
 		obj.div(3,0);
 
 		obj.add1(3,0,0);
+		obj.greet();
+
 
 		
 		
