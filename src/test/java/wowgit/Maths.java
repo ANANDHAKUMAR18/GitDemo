@@ -37,6 +37,10 @@ public class Maths {
 	}
 	
 	
+	public void greetings() {
+		System.out.println(" Hello world");
+	}
+	
 	
 	
 
@@ -55,8 +59,12 @@ public class Maths {
 		obj.div(3,0);
 
 		obj.add1(3,0,0);
+<<<<<<< Updated upstream
 		obj.greet();
 
+=======
+		obj.greetings();
+>>>>>>> Stashed changes
 
 		
 		
