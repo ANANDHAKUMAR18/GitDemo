@@ -27,7 +27,7 @@ public class Maths {
 		System.out.println("Sum of two numbers =" + result);
 		}
 
-	public void add1(int a,int b),int c){
+	public void add1(int a,int b,int c){
 		int result =a+b+c;
 		System.out.println("Sum of two numbers =" + result);
 		}
@@ -41,6 +41,10 @@ public class Maths {
 		System.out.println(" Hello world");
 	}
 	
+	
+	public void greetingss() {
+		System.out.println("Yaay, Hello world");
+	}
 	
 	
 
@@ -59,19 +63,19 @@ public class Maths {
 		obj.div(3,0);
 
 		obj.add1(3,0,0);
-<<<<<<< Updated upstream
+
 		obj.greet();
 
-=======
+
 		obj.greetings();
->>>>>>> Stashed changes
+		
+		obj.greetingss();
+
 
 		
 		
 
-	      
-
-		}
+	      }
 
 }
 
