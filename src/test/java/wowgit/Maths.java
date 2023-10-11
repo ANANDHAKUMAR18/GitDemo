@@ -46,6 +46,13 @@ public class Maths {
 		System.out.println("Yaay, Hello world");
 	}
 	
+	public void wow() {
+		System.out.println("Yaay, Hello world");
+	}
+
+	
+	
+	
 	
 
 	
@@ -70,6 +77,7 @@ public class Maths {
 		obj.greetings();
 		
 		obj.greetingss();
+		obj.wow();
 
 
 		
