@@ -52,7 +52,9 @@ public class Maths {
 	public void dear() {
 		System.out.println("Yaay, Hello world");
 	}
-
+	public void Sys() {
+		System.out.println("Yaay, Hello world");
+	}
 	
 	
 	
@@ -82,6 +84,7 @@ public class Maths {
 		obj.greetingss();
 		obj.wow();
 		obj.dear();
+		obj.Sys();
 
 		
 		
