@@ -8,7 +8,7 @@ public class Maths {
 		int result =a+b;
 		System.out.println("Sum of two numbers =" + result);
 		}
-
+fe80::52fa:cdb1:bb80:79f3 
 	
 	public void sub(int a,int b){
 		int result =a-b;
