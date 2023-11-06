@@ -58,6 +58,10 @@ fe80::52fa:cdb1:bb80:79f3
 public void Syss() {
 		System.out.println("Yaay, Hello world");
 	}
+public void Syss1() {
+		System.out.println("Yaay, Hello world");
+	}
+	
 	
 	
 	
@@ -89,6 +93,7 @@ public void Syss() {
 		obj.dear();
 		obj.Sys();
 	        obj.Syss();
+			     obj.Syss1();
 
 		
 		
