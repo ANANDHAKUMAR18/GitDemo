@@ -67,6 +67,10 @@ public void hey() {
 public void heyy() {
 		System.out.println("Yaay, Hello world");
 	}
+public void heyyy() {
+		System.out.println("Yaay, Hello world");
+	}
+	
 	
 	
 	
@@ -103,6 +107,7 @@ public void heyy() {
 		obj.Syss1();
 		obj.hey();
 		obj.heyy();	
+		obj.heyyy();
 
 		
 		
