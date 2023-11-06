@@ -61,6 +61,10 @@ public void Syss() {
 public void Syss1() {
 		System.out.println("Yaay, Hello world");
 	}
+public void hey() {
+		System.out.println("Yaay, Hello world");
+	}
+	
 	
 	
 	
@@ -93,7 +97,8 @@ public void Syss1() {
 		obj.dear();
 		obj.Sys();
 	        obj.Syss();
-			     obj.Syss1();
+		obj.Syss1();
+		obj.hey();
 
 		
 		
