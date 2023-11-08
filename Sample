@@ -1,2 +1,2 @@
 curl -sO http://localhost:8080/jnlpJars/agent.jar
-java -jar agent.jar -jnlpUrl http://localhost:8080/computer/Slave/jenkins-agent.jnlp -secret 72d18b304e19c4385075fb20c82b76badc1a9f7b8462f54dda218afcbb04ead2 -workDir "/opt/build"
+java -jar agent.jar -jnlpUrl http://localhost:8080/computer/Slave/jenkins-agent.jnlp -secret 72d18b304e19c4385075fb20c82b76badc1a9f7b8462f54dda218afcbb04ead2 -workDir "/home/jenkins"
