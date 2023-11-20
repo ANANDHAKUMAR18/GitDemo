@@ -38,3 +38,4 @@ pG5qFDB5/9unMAAAAgc3dlZXRoZWFydEBzd2VldGhlYXJ0LVZpcnR1YWxCb3gBAgM=
 -----END OPENSSH PRIVATE KEY-----
 
 curl -sO http://192.168.1.4:8080/jnlpJars/agent.jar;java -jar agent.jar -jnlpUrl http://192.168.1.4:8080/computer/Node2/jenkins-agent.jnlp -secret 687d291b51ea8a13c2d7c56a9c6fcc75eedc165b6e3efbed05ec146032603dd9 -workDir "/home/Jenkins"
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDCR9IKMJ+69sSpKha0mSbWoI3O2dZbRYV8kihYGvfqPHESquwXVKHnCd/eQbJ7TAYXbmDUSqwfO6am2a9rU5fJOvBQE7UtS8nCGIcVPcp+67myvG6PIO0eNeB4Wz7WMJRGyFU6M2ZPnzt6U4VXRdrpBNspAquuLh+Q/yRKq4X7tfWo2Z9AeKaXAjDYuZxrfhmxCyMux5sH5Npq3mX7JGL5lOop/giPaLRH1JAXHliy/N/P7gvZqDRpaYkfS4bA5YStiKNL3iG81xvluVB4X/meAv2DwXvIVwum2Vxr5qpI8Q2cJSMHVgxLBnZph1v+wU7O+WdNbp7Ap3ZDu2f220Rnc6h0l0lekHHE3MnAKZjRvPCzmbVbsDAu79wHynH1PHcjVgjaUFAG7OK35C3ck1JZ5bYMAU+9oqhlmJRjj3pdYX47KJoNFKBwkxA6//BEVEK9e/02DIrlfKfGtCdjVur0HSSOh5+G2sq9nRKEXrRj0yaJzH4Y1sWDayDGOnYiKy8= sweetheart@sweetheart-VirtualBox
