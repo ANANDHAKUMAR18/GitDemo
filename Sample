@@ -37,4 +37,4 @@ iYMfTgTdm+K0H6Iw1DPCjm58ux4q94vOn8NsYs0/U5c72B6cJ7c3bJ7cuz9IBI6XJLiIuM
 pG5qFDB5/9unMAAAAgc3dlZXRoZWFydEBzd2VldGhlYXJ0LVZpcnR1YWxCb3gBAgM=
 -----END OPENSSH PRIVATE KEY-----
 
-curl -sO http://192.168.1.4:8080/jnlpJars/agent.jar;java -jar agent.jar -jnlpUrl http://192.168.1.4:8080/computer/Linux%5FNode/jenkins-agent.jnlp -secret 99ec25f89a2c162d26b66c476e68643797f683a4c188e53bd8489d5df73ceb07 -workDir "/home/Jenkins"
+curl -sO http://192.168.1.4:8080/jnlpJars/agent.jar;java -jar agent.jar -jnlpUrl http://192.168.1.4:8080/computer/Node2/jenkins-agent.jnlp -secret 687d291b51ea8a13c2d7c56a9c6fcc75eedc165b6e3efbed05ec146032603dd9 -workDir "/home/Jenkins"
