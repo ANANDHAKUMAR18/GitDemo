@@ -1,2 +1,1 @@
-curl -sO http://192.168.1.4:8080/jnlpJars/agent.jar
-java -jar agent.jar -jnlpUrl http://192.168.1.4:8080/computer/Wow/jenkins-agent.jnlp -secret ce2ea83f0f4cb1c5840157d0b3cc8f6c85562935c2d8c13351ebf433f3d4f8d9 -workDir "/home/Jenkins"
+curl -sO http://192.168.1.4:8080/jnlpJars/agent.jar;java -jar agent.jar -jnlpUrl http://192.168.1.4:8080/computer/Node22/jenkins-agent.jnlp -secret 5f89b40a2e634d71586c97bcae2d2958a1c42f68570abc9fbe0e7b3c28c68746 -workDir "/home/Jenkins"
